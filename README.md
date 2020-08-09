@@ -1,6 +1,5 @@
 <img alt="OskarsEzerins | header" src="https://github.com/OskarsEzerins/OskarsEzerins/blob/master/header.png?raw=true" />
 
-## I'm a Ruby on Rails Developer!
 - 💻 I’m currently working at MAK IT - [website]!
 - 📖 I’m currently expanding on my RoR knowledge and learning React
 - 🎯 2020 Goals: Develop a side project & learn at least one new thing each day
