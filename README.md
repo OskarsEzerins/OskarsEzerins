@@ -1,4 +1,4 @@
-### Hello! I'm Oskars 👋
+<img alt="OskarsEzerins | header" src="https://github.com/OskarsEzerins/OskarsEzerins/blob/master/header.png?raw=true" />
 
 ## I'm a Ruby on Rails Developer!
 - 💻 I’m currently working at MAK IT - [website]!
