@@ -1,5 +1,3 @@
-<style>img {margin: 2px;}</style>
-
 ### Hello! I'm Oskars 👋
 
 ## I'm a Ruby on Rails Developer!
