@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working at MAK IT - [website]!
 - 📖 I’m currently expanding on my RoR knowledge and learning React
-- 🎯 2020 Goals: Develop a side project & learn at least one new thing each day
+- 🎯 2021 Goals: Develop a side project & learn at least one new thing each day
 - 🎷 Fun fact: I love to play Saxophone / jazz & house
 
 ### Connect with me:
