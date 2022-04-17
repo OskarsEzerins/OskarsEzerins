@@ -1,7 +1,7 @@
 [<img alt="OskarsEzerins | header" src="https://github.com/OskarsEzerins/OskarsEzerins/blob/master/header.png?raw=true" />][linkedin]
 
 - 💻 I’m currently working at MAK IT - [website]!
-- 📖 I’m currently expanding on my RoR knowledge and learning React
+- 📖 I’m currently learning rust
 - 🎯 2022 Goals: Learn rust and possibly create a device with rust with own hardware
 - 🎷 Fun fact: I love to play Saxophone / jazz & house
 
