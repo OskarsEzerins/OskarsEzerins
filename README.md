@@ -1,6 +1,6 @@
 [<img alt="OskarsEzerins | header" src="https://github.com/OskarsEzerins/OskarsEzerins/blob/master/header.png?raw=true" />][linkedin]
 
-- 💻 I’m currently working at MAK IT - [website]!
+- 💻 I’m currently working at Mitigate - [website]!
 - 📖 I’m currently learning rust
 - 🎯 2022 Goals: Learn rust and possibly create a device with rust with own hardware
 - 🎷 Fun fact: I love to play Saxophone / jazz & house
@@ -35,5 +35,5 @@
 
 <img align="left" alt="OskarsEzerins's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oskarsezerins&count_private=true&show_icons=true&theme=gruvbox" />
 
-[website]: https://www.makit.lv/
+[website]: https://www.mitigate.dev/
 [linkedin]: https://www.linkedin.com/in/oskars-ezeri%C5%86%C5%A1-9339961a6/
