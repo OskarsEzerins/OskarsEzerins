@@ -1,8 +1,8 @@
 [<img alt="OskarsEzerins | header" src="https://github.com/OskarsEzerins/OskarsEzerins/blob/master/header.png?raw=true" />][linkedin]
 
 - 💻 I’m currently working at Mitigate - [website]!
-- 📖 I’m currently learning rust, svelte
-- 🎯 2023 Goals: Learn rust, svelte and possibly create a PC game
+- 📖 I’m currently learning rust
+- 🎯 2024 Goals: Learn rust and possibly create a PC game
 - 🎷 Fun fact: I love to play Saxophone / jazz & house
 
 ### Connect with me:
