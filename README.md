@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="OskarsEzerins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+https://www.linkedin.com/in/oskars-ezeri%C5%86%C5%A1-9339961a6/
 
 <br />
 
@@ -20,7 +20,6 @@
 - Docker & k8s
 - Others
 
-<br />
 <br />
 
 ---
