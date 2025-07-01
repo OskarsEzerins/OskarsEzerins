@@ -1,14 +1,12 @@
 [<img alt="OskarsEzerins | header" src="https://github.com/OskarsEzerins/OskarsEzerins/blob/master/header.png?raw=true" />][linkedin]
 
 - 💻 I’m currently working at Mitigate - [website]!
-- I love to self host software and orchestrate it
+- 🌐 I love to self host software and orchestrate it
 - 🎷 Fun fact: I love to play Saxophone / jazz & house
 
 ### Connect with me:
 
 https://www.linkedin.com/in/oskars-ezeri%C5%86%C5%A1-9339961a6/
-
-<br />
 
 ### Languages and Tools:
 
@@ -19,8 +17,6 @@ https://www.linkedin.com/in/oskars-ezeri%C5%86%C5%A1-9339961a6/
 - Postgresql, Oracle Database
 - Docker & k8s
 - Others
-
-<br />
 
 ---
 
